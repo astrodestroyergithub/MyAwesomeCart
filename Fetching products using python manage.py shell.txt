@@ -1,0 +1,28 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\WINDOWS\system32> cd C:\Users\TAMOJIT\PycharmProjects\MyAwesomeCart\mac
+PS C:\Users\TAMOJIT\PycharmProjects\MyAwesomeCart\mac> python manage.py shell
+Python 3.8.6 (tags/v3.8.6:db45529, Sep 23 2020, 15:52:53) [MSC v.1927 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+>>> from shop.models import Product
+>>> Product.objects.all()
+<QuerySet [<Product: Watch>, <Product: Ghadi>, <Product: Play Station 5>, <Product: Good day>]>
+>>> from django.utils import timezone
+>>> myprod = Product(product_name="Mouse", category="Devices", subcategory="Computer", price=12, desc="This is a computer mouse", pub_date=timezone.now())
+>>> myprod.save()
+>>> myprod.product_id
+<class 'django.db.models.fields.AutoField'>
+>>> myprod.desc
+'This is a computer mouse'
+>>> Product.objects.all()
+<QuerySet [<Product: Watch>, <Product: Ghadi>, <Product: Play Station 5>, <Product: Good day>, <Product: Mouse>]>
+>>> Product.objects.get(product_name="Play Station 5")
+<Product: Play Station 5>
+>>> a = Product.objects.get(product_name="Play Station 5")
+>>> a.category
+'Gadgets'
+>>>
