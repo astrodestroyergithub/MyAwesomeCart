@@ -122,6 +122,8 @@ padding-right: 0;
         localStorage.setItem('cart', JSON.stringify(cart));
         document.getElementById('cart').innerHTML = Object.keys(cart).length;
     });
+    $('#popcart').popover();
+    document.getElementById("popcart").setAttribute('data-content', '<h5>This is your items in my shopping cart</h5>');
 </script>
 
 {% endblock %}
