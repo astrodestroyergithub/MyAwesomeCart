@@ -104,6 +104,7 @@ padding-right: 0;
     else
     {
         cart = JSON.parse(localStorage.getItem('cart'));
+        document.getElementById('cart').innerHTML = Object.keys(cart).length;
     }
     $('.cart').click(function(){
         console.log('clicked');
@@ -117,6 +118,7 @@ padding-right: 0;
         }
         console.log(cart);
         localStorage.setItem('cart', JSON.stringify(cart));
+        document.getElementById('cart').innerHTML = Object.keys(cart).length;
     });
 </script>
 
