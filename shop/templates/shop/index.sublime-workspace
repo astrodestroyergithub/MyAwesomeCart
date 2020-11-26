@@ -1,1 +1,278 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6124,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "checkout.html",
+			"settings":
+			{
+				"buffer_size": 3165,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Practice/19BCE1156_Tamojit Roy_IWP_CSE3002_Digital Assignment-2/COVID-19 DETAILS.php",
+		"/C/xampp/htdocs/Practice/19BCE1156_Tamojit Roy_IWP_CSE3002_Digital Assignment-2/COVID-19.html",
+		"/C/xampp/htdocs/Practice/19BCE1156_Tamojit Roy_IWP_CSE3002_Digital Assignment-2/COVID-19 STYLE.css",
+		"/C/xampp/htdocs/gameplanet/contact.php",
+		"/C/xampp/htdocs/gameplanet/style5.css",
+		"/C/xampp/htdocs/gameplanet/style4.css",
+		"/C/xampp/htdocs/gameplanet/style3.css",
+		"/C/xampp/htdocs/gameplanet/style2.css",
+		"/C/xampp/htdocs/gameplanet/style1.css",
+		"/C/xampp/htdocs/gameplanet/review3.php",
+		"/C/xampp/htdocs/gameplanet/register3.php",
+		"/C/xampp/htdocs/gameplanet/register2.php",
+		"/C/xampp/htdocs/gameplanet/home.php",
+		"/C/xampp/htdocs/gameplanet/login.php",
+		"/C/xampp/htdocs/gameplanet/login2.php",
+		"/C/xampp/htdocs/gameplanet/game2.php",
+		"/C/xampp/htdocs/gameplanet/review.php",
+		"/C/xampp/htdocs/gameplanet/ranking.php",
+		"/C/xampp/htdocs/gameplanet/main.php",
+		"/C/xampp/htdocs/gameplanet/dataset.php",
+		"/C/xampp/htdocs/gameplanet/review2.php",
+		"/C/xampp/htdocs/gameplanet/company2.php",
+		"/C/xampp/htdocs/gameplanet/company.php",
+		"/C/xampp/htdocs/gameplanet/login3.php",
+		"/C/xampp/htdocs/gameplanet/logout.php",
+		"/C/xampp/htdocs/gameplanet/game.php",
+		"/C/xampp/htdocs/gameplanet/style6.css",
+		"/C/xampp/htdocs/gameplanet/register.php",
+		"/C/xampp/htdocs/gameplanet/about.php",
+		"/C/xampp/htdocs/gameplanet/image2.jpg",
+		"/C/xampp/htdocs/login/registration.php",
+		"/C/xampp/htdocs/login/style.css",
+		"/C/xampp/htdocs/login/home.php",
+		"/C/xampp/htdocs/login/process.php"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"v"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3111,
+								3259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1773.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "checkout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2461,
+								2461
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
